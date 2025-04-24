@@ -2,9 +2,14 @@
 
 ## Transforming Local News Archives into AI-Powered Risk Intelligence
 
----
+<p align="left">
+  <img src="AGAINews.png" width="500" alt="Media Banner">
+</p>
 
-![Echoframe Logo](https://api/placeholder/500/100)
+---
+<p align="left">
+  <img src="https://github.com/robertdshaw/EchoFrame/blob/main/NEXUS_MARK_cmyk_page-0001-remove-background.com.png" width="350" alt="EF Logo">
+</p>
 
 **Emerging Markets Risk Intelligence Platform**
 
@@ -79,7 +84,10 @@ Echoframe transforms local news archives in emerging markets into actionable pol
 
 ### A New Approach to Emerging Market Intelligence
 
-![Echoframe Architecture](https://api/placeholder/600/300)
+<p align="left">
+  <img src="EF.png" width="400" alt="EF Architecture Logo">
+</p>
+
 
 #### 1. Archives = Nervous System
 * Ingest comprehensive local news archives spanning 3-5 years
@@ -232,6 +240,4 @@ Echoframe transforms local news archives in emerging markets into actionable pol
 **Echoframe Inc.**
 * Email: info@echoframe.ai
 * Website: www.echoframe.ai
-* Phone: +1 (555) 123-4567
-
-*Request our detailed technical specification document or schedule a personalized demo today.*
+* Phone: +X (XXX) XXX-XXXX
