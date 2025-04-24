@@ -11,7 +11,7 @@
   <img src="https://github.com/robertdshaw/EchoFrame/blob/main/NEXUS_MARK_cmyk_page-0001-remove-background.com.png" width="350" alt="EF Logo">
 </p>
 
-**Emerging Markets Risk Intelligence Platform**
+## **Emerging Markets Risk Intelligence Platform**
 
 ---
 
@@ -139,7 +139,7 @@ Echoframe transforms local news archives in emerging markets into actionable pol
 
 #### 2. Regional Investment Briefs
 * Monthly reports on economic indicators, business sentiment, and emerging opportunity zones
-* Example: "Q2 Investment Climate: Antioquia Mining Sector - Permitting Acceleration and Community Relations"
+* Example: "Q2 Investment Climate: Antioquia (region in Colombia) Mining Sector - Permitting Acceleration and Community Relations"
 
 #### 3. Operational Risk Dashboards
 * Real-time feeds of events that could disrupt logistics or staffing
